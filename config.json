@@ -1,5 +1,5 @@
 {
-  "mongoURI": "",
+  "mongoURI": "mongodb+srv://dinmohammad787898_db_user:niMvnHqB6fL2YGXz@loser.nmxif3x.mongodb.net/?appName=Loser",
   "ownerID": "100046863708863",
   "adminIDs": [
     "100070089944542",
