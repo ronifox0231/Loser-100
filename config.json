@@ -1,15 +1,15 @@
 {
   "mongoURI": "",
-  "ownerID": "100037743553265",
+  "ownerID": "100046863708863",
   "adminIDs": [
-    "100037743553265",
+    "100070089944542",
     "ADMIN_ID_2"
   ],
   "supportIDs": [
-    "100037743553265",
+    "100070089944542",
     "SUPPORT_ID_2"
   ],
-  "adminInboxThreadID": "6567071300016227",
+  "adminInboxThreadID": "100070089944542",
   "prefix": "/",
   "fcaOptions": {
     "forceLogin": false,
